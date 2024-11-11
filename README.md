@@ -1,7 +1,7 @@
 # Roll_The_Dice
 
-# index.html
-
+### index.html
+~~~
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -181,9 +181,10 @@
 </body>
 </html>
 
+~~~
+### page2.html
 
-# page2.html
-
+~~~
 
 <!DOCTYPE html>
 <html lang="en">
@@ -344,3 +345,5 @@
     </script>
 </body>
 </html>
+
+~~~
