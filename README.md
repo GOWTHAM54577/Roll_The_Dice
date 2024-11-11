@@ -186,6 +186,10 @@ https://gowtham54577.github.io/Roll_The_Dice/
 </html>
 
 ~~~
+
+### Output
+![Output 2024-11-11 18212](https://github.com/user-attachments/assets/836440c4-ca9f-4167-84ef-56056d564654)
+
 ### page2.html
 
 ~~~
@@ -351,3 +355,8 @@ https://gowtham54577.github.io/Roll_The_Dice/
 </html>
 
 ~~~
+
+### Output 
+
+![Output 2024-11-11 182145](https://github.com/user-attachments/assets/25cfc8bb-dd0e-4112-a297-e24fa4e61f84)
+
